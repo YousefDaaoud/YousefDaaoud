@@ -71,7 +71,7 @@ OWASP Top 10 • Business Logic Exploitation • Auth Bypass • EDR Evasion
 Burp Suite Pro • Nmap • Nessus • Metasploit • ffuf
 
 **Programming**  
-Python • Bash • PowerShell
+Python • C / C++ • Bash • PowerShell
 
 **Platforms**  
 Active Directory • Windows Internals • Linux
