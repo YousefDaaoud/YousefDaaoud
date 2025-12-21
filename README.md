@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yousef Daaoud</h1>
 
 <p align="center">
-  <img src="j0/j0.gif" />
+  <img src="J0/j0.gif" />
 </p>
 
 <h4 align="center">
