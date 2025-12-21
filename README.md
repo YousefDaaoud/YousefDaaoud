@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yousef Daaoud</h1>
 
 <p align="center">
-  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/7030f6180936057.65132c80ab880.gif" width="120">
+  <img src="j0/j0.gif" />
 </p>
 
 <h4 align="center">
