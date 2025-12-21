@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yousef Daaoud</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="120">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTNuMmM4a2pmNWV3aGg5aHpwZGo2aDNudGNoMnZwcnI3MW5xaGFsZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3og0ILLVvPp8d64Jd6/giphy.gif" width="120">
 </p>
 
 <h4 align="center">
@@ -71,7 +71,7 @@ OWASP Top 10 • Business Logic Exploitation • Auth Bypass • EDR Evasion
 Burp Suite Pro • Nmap • Nessus • Metasploit • ffuf
 
 **Programming**  
-Python • Bash • PowerShell
+Python • C / C++ • Bash • PowerShell
 
 **Platforms**  
 Active Directory • Windows Internals • Linux
